@@ -1,5 +1,6 @@
 # Landing_Page
 
+A web application by the author to displaya landing page.
 
 Dennis Gitonga.<br>
 
