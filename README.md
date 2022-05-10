@@ -1,6 +1,15 @@
 # Landing_Page
 
-A web application by the author to displaya landing page.
+A web application by the author to display a landing page.
+
+# Objectives
+Show home page.
+Navigate to project page.
+
+# Tools
+HTML
+CSS
+
 
 Dennis Gitonga.<br>
 
